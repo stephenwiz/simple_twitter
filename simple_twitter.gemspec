@@ -2,8 +2,8 @@
 require File.expand_path('../lib/simple_twitter/version', __FILE__)
 
 Gem::Specification.new do |gem|
-  gem.authors       = ["Peter Jones"]
-  gem.email         = ["pjones@pmade.com"]
+  gem.authors       = ["Steve Campbell"]
+  gem.email         = ["steve.campbell@q.com"]
   gem.description   = %q{Super simple class for searching Twitter.}
   gem.summary       = %q{Shows how to search Twitter and work with JSON data.}
   gem.homepage      = "https://github.com/devalot/simple_twitter"
